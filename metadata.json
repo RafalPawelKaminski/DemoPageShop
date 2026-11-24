@@ -1,0 +1,6 @@
+{
+  "name": "Polna Spiżarnia — Ekologiczna Żywność",
+  "description": "Nowoczesny sklep z certyfikowaną żywnością organiczną: katalog produktów z filtrowaniem kategorii, trybem ciemnym oraz wysoką gęstością widoku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
